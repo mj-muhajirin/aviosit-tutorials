@@ -1,0 +1,19 @@
+[project]
+name = "aviosit-tutorials"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "AviosIT", email = "muhajirin.msc@gmail.com" }
+]
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=2.0.2",
+]
+
+[project.scripts]
+aviosit-tutorials = "aviosit_tutorials:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
