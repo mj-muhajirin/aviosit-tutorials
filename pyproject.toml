@@ -1,7 +1,7 @@
 [project]
 name = "aviosit-tutorials"
 version = "0.1.0"
-description = "Add your description here"
+description = "Practical tutorials and examples covering AI, data science, and software engineering, mainly using Python alongside other languages and technologies."
 readme = "README.md"
 authors = [
     { name = "AviosIT", email = "muhajirin.msc@gmail.com" }
