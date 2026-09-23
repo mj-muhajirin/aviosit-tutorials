@@ -4,7 +4,7 @@
 
 **A collection of runnable source-code tutorials.**
 
-![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-412991?style=for-the-badge)
+![AI & ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-412991?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-2E7D32?style=for-the-badge)
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-1565C0?style=for-the-badge)
 ![Infrastructure & DevOps](https://img.shields.io/badge/Infrastructure%20%26%20DevOps-6A1B9A?style=for-the-badge)
