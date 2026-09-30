@@ -8,7 +8,6 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-2E7D32?style=for-the-badge)
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-1565C0?style=for-the-badge)
 ![Infrastructure & DevOps](https://img.shields.io/badge/Infrastructure%20%26%20DevOps-6A1B9A?style=for-the-badge)
-![Tools & Integration](https://img.shields.io/badge/Tools%20%26%20Integration-E65100?style=for-the-badge)
 
 </div>
 
