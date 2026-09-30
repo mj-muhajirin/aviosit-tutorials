@@ -1,36 +1,73 @@
+# =========================
 # Virtual environment
+# =========================
+
 .venv/
 
+# =========================
 # Python cache
+# =========================
+
 __pycache__/
 *.py[cod]
 *$py.class
 
+# =========================
 # Build / distribution
+# =========================
+
 build/
 dist/
 *.egg-info/
 
+# =========================
 # Test / coverage
+# =========================
+
 .pytest_cache/
 .coverage
 htmlcov/
 
+# =========================
 # Type checker / linter caches
+# =========================
+
 .mypy_cache/
 .ruff_cache/
 
+# =========================
 # IDE / editors
+# =========================
+
 .vscode/
 .idea/
 
+# =========================
 # macOS
+# =========================
+
 .DS_Store
 
+# =========================
 # Environment variables / secrets
+# =========================
+
 .env
 .env.*
 !.env.example
 
+# =========================
 # Jupyter
+# =========================
+
 .ipynb_checkpoints/
+
+# =========================
+# Tutorial data
+# =========================
+
+preparing-quran-data-for-rag/data/raw/*
+preparing-quran-data-for-rag/data/processed/*
+
+!preparing-quran-data-for-rag/data/raw/.gitkeep
+!preparing-quran-data-for-rag/data/processed/.gitkeep
