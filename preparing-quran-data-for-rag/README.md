@@ -27,7 +27,7 @@ The notebook explores the raw Quran sources, validates their structure, combines
 
 ## 2. Related Projects
 
-[ChatQuran: A Multilingual RAG System](https://aviosit.com/projects/chatquran-multilingual-rag-system) — Explore the complete ChatQuran project and its RAG development roadmap.
+[ChatQuran: A Multilingual Quran RAG Application](https://aviosit.com/projects/chatquran) — Explore the complete ChatQuran project and its RAG development roadmap.
 
 [Project Video Demonstration](YOUTUBE_VIDEO_LINK_PROJECT) — Watch the ChatQuran project walkthrough and explore its implementation and development process.
 
