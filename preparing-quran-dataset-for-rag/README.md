@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Preparing Quran Data for RAG</h1>
+<h1>Preparing Quran Dataset for RAG</h1>
 
 <p><strong>An exploration of Quran corpus data and the data preparation process for retrieval-augmented generation (RAG).</strong></p>
 
@@ -13,11 +13,11 @@
 
 ---
 
-This repository contains the exploratory notebook for preparing Quran source data for use in a retrieval-augmented generation (RAG) system.
+This repository contains the exploratory notebook for preparing Quran source data for use in a Retrieval-Augmented Generation (RAG) application.
 
 ## 1. Tutorial Details
 
-[Preparing Quran Data for RAG](https://aviosit.com/tutorials/preparing-quran-data-for-rag) — Explore the detailed tutorial, concepts, data preparation process, and implementation notes.
+[Preparing Quran Dataset for RAG](https://aviosit.com/tutorials/preparing-quran-dataset-for-rag) — Explore the detailed tutorial, concepts, data preparation process, and implementation notes.
 
 [Tutorial Video Demonstration](YOUTUBE_VIDEO_LINK_TUTORIAL) — Watch the tutorial walkthrough and follow the Quran data preparation process in practice.
 
@@ -27,7 +27,7 @@ The notebook explores the raw Quran sources, validates their structure, combines
 
 ## 2. Related Projects
 
-[ChatQuran: A Multilingual Quran RAG Application](https://aviosit.com/projects/chatquran) — Explore the complete ChatQuran project and its RAG development roadmap.
+[ChatQuran: A Multilingual Quran RAG Application](https://aviosit.com/projects/chatquran) — Explore the complete ChatQuran project and its RAG application.
 
 [Project Video Demonstration](YOUTUBE_VIDEO_LINK_PROJECT) — Watch the ChatQuran project walkthrough and explore its implementation and development process.
 
@@ -89,13 +89,13 @@ uv run python -m ipykernel install --user --name aviosit-tutorials --display-nam
 
 ### B. Run the Tutorial
 
-Open `preparing-quran-data-for-rag/notebooks/preparing_quran_dataset.ipynb` in VS Code or another compatible Jupyter environment.
+Open `preparing-quran-dataset-for-rag/notebooks/preparing_quran_dataset.ipynb` in VS Code or another compatible Jupyter environment.
 
 Select the `aviosit-tutorials` kernel.
 
-The notebook expects the Quran source files under `preparing-quran-data-for-rag/data/raw/`.
+The notebook expects the Quran source files under `preparing-quran-dataset-for-rag/data/raw/`.
 
-The prepared dataset is generated at `preparing-quran-data-for-rag/data/processed/quran.parquet`.
+The prepared dataset is generated at `preparing-quran-dataset-for-rag/data/processed/quran.parquet`.
 
 The raw source files and generated dataset are intentionally excluded from Git.
 
@@ -109,7 +109,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- TUTORIAL LINKS -->
 
-<a href="https://aviosit.com/tutorials/preparing-quran-data-for-rag">
+<a href="https://aviosit.com/tutorials/preparing-quran-dataset-for-rag">
   <img src="https://img.shields.io/badge/🌐%20Web%20Page-2563EB?style=for-the-badge" alt="Web Page">
 </a>
 <a href="https://www.youtube.com/playlist?list=PLYZCMegpMb8E">
