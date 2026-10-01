@@ -43,7 +43,7 @@ The tutorial uses Quran sources provided through [Tanzil](https://tanzil.net/):
 
 See the [Tanzil Text License](https://tanzil.net/docs/Text_License) and the applicable translation terms before redistributing or using the source data outside this tutorial.
 
-The source data is kept locally under `data/raw/` and is not committed to this repository.
+The source data is stored under `data/raw/`, and the prepared dataset is saved to `data/processed/quran.parquet`.
 
 ## 4. Requirements
 

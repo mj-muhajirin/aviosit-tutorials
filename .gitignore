@@ -26,6 +26,7 @@ dist/
 
 .pytest_cache/
 .coverage
+.coverage.*
 htmlcov/
 
 # =========================
@@ -34,6 +35,7 @@ htmlcov/
 
 .mypy_cache/
 .ruff_cache/
+.pyright/
 
 # =========================
 # IDE / editors
@@ -63,11 +65,45 @@ htmlcov/
 .ipynb_checkpoints/
 
 # =========================
-# Tutorial data
+# Logs / temporary files
 # =========================
 
-preparing-quran-data-for-rag/data/raw/*
-preparing-quran-data-for-rag/data/processed/*
+*.log
+*.tmp
+*.bak
 
-!preparing-quran-data-for-rag/data/raw/.gitkeep
-!preparing-quran-data-for-rag/data/processed/.gitkeep
+# =========================
+# Local databases
+# =========================
+
+*.sqlite
+*.sqlite3
+*.db
+
+# =========================
+# Model weights / checkpoints
+# =========================
+
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+
+# =========================
+# ML experiment outputs
+# =========================
+
+mlruns/
+wandb/
+lightning_logs/
+
+# =========================
+# Tutorial data: Quran RAG
+# =========================
+
+preparing-quran-dataset-for-rag/data/raw/*
+preparing-quran-dataset-for-rag/data/processed/*
+
+!preparing-quran-dataset-for-rag/data/raw/.gitkeep
+!preparing-quran-dataset-for-rag/data/processed/.gitkeep

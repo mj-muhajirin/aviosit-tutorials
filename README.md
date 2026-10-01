@@ -15,13 +15,17 @@
 
 ## 1. Tutorials
 
-AviosIT Tutorials is a collection of runnable source-code tutorials covering practical concepts, techniques, and engineering practices across AI, data science, software engineering, infrastructure, DevOps, and developer tools.
+AviosIT Tutorials is a collection of runnable source-code tutorials covering practical concepts, techniques, and engineering practices across AI, data science, data engineering, software engineering, infrastructure, DevOps, and developer tools.
 
-### A. Software Engineering
+### A. Data Engineering
+
+- [How to Prepare Quran Dataset for RAG Application](https://aviosit.com/tutorials/preparing-quran-dataset-for-rag) — Learn how to explore Quran source data, validate and combine Arabic text with translations, and prepare a structured dataset in Parquet format for Retrieval-Augmented Generation (RAG) applications.
+
+### B. Software Engineering
 
 - [How to Use uv for Python Projects](https://aviosit.com/tutorials/using-uv-for-python-projects) — Learn how to use uv for modern Python projects, from installation and Python version management to dependency management, project execution, and working with an existing project.
 
-### B. Infrastructure & DevOps
+### C. Infrastructure & DevOps
 
 - [Deploying Astro to Cloudflare Workers](https://aviosit.com/tutorials/deploying-astro-to-cloudflare-workers) — Learn how to deploy an existing Astro project to Cloudflare Workers, from local configuration and production build to GitHub integration, deployment, and verification.
 
