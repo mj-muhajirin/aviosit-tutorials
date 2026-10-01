@@ -99,10 +99,6 @@ The prepared dataset is generated at `preparing-quran-dataset-for-rag/data/proce
 
 The raw source files and generated dataset are intentionally excluded from Git.
 
-## 6. License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 <div align="center">
