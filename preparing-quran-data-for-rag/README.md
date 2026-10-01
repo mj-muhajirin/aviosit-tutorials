@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Preparing Quran Data for a RAG System</h1>
+<h1>Preparing Quran Data for RAG</h1>
 
 <p><strong>An exploration of Quran corpus data and the data preparation process for retrieval-augmented generation (RAG).</strong></p>
 
@@ -17,7 +17,7 @@ This repository contains the exploratory notebook for preparing Quran source dat
 
 ## 1. Tutorial Details
 
-[Preparing Quran Data for a RAG System](https://aviosit.com/tutorials/preparing-quran-data-for-rag) — Explore the detailed tutorial, concepts, data preparation process, and implementation notes.
+[Preparing Quran Data for RAG](https://aviosit.com/tutorials/preparing-quran-data-for-rag) — Explore the detailed tutorial, concepts, data preparation process, and implementation notes.
 
 [Tutorial Video Demonstration](YOUTUBE_VIDEO_LINK_TUTORIAL) — Watch the tutorial walkthrough and follow the Quran data preparation process in practice.
 
