@@ -19,7 +19,7 @@ This repository contains the exploratory notebook for preparing Quran source dat
 
 [Preparing Quran Dataset for RAG](https://aviosit.com/tutorials/preparing-quran-dataset-for-rag) — Explore the detailed tutorial, concepts, data preparation process, and implementation notes.
 
-[Tutorial Video Demonstration](YOUTUBE_VIDEO_LINK_TUTORIAL) — Watch the tutorial walkthrough and follow the Quran data preparation process in practice.
+[Tutorial Video Demonstration](https://www.youtube.com/watch?v=LHXr8NMTM4E) — Watch the tutorial walkthrough and follow the Quran data preparation process in practice.
 
 The main tutorial notebook is available at [`notebooks/preparing_quran_dataset.ipynb`](notebooks/preparing_quran_dataset.ipynb).
 
@@ -108,7 +108,7 @@ The raw source files and generated dataset are intentionally excluded from Git.
 <a href="https://aviosit.com/tutorials/preparing-quran-dataset-for-rag">
   <img src="https://img.shields.io/badge/🌐%20Web%20Page-2563EB?style=for-the-badge" alt="Web Page">
 </a>
-<a href="https://www.youtube.com/playlist?list=PLYZCMegpMb8E">
+<a href="https://www.youtube.com/watch?v=LHXr8NMTM4E">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
