@@ -4,6 +4,7 @@
 
 <p><strong>An exploration of Quran corpus data and the data preparation process for retrieval-augmented generation (RAG).</strong></p>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TXT File](https://img.shields.io/badge/%F0%9F%93%84%20txt%20file-412991?style=for-the-badge&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Parquet](https://img.shields.io/badge/parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)
@@ -17,7 +18,7 @@ This repository contains the exploratory notebook for preparing Quran source dat
 
 ## 1. Tutorial Details
 
-[Preparing Quran Dataset for RAG](https://aviosit.com/tutorials/preparing-quran-dataset-for-rag) — Explore the detailed tutorial, concepts, data preparation process, and implementation notes.
+[Preparing Quran Dataset for RAG Applications](https://aviosit.com/tutorials/preparing-quran-dataset-for-rag) — Explore the detailed tutorial, concepts, data preparation process, and implementation notes.
 
 [Tutorial Video Demonstration](https://www.youtube.com/watch?v=LHXr8NMTM4E) — Watch the tutorial walkthrough and follow the Quran data preparation process in practice.
 

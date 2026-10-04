@@ -19,7 +19,9 @@ AviosIT Tutorials is a collection of runnable source-code tutorials covering pra
 
 ### A. Data Engineering
 
-- [How to Prepare Quran Dataset for RAG Application](https://aviosit.com/tutorials/preparing-quran-dataset-for-rag) — Learn how to explore Quran source data, validate and combine Arabic text with translations, and prepare a structured dataset in Parquet format for Retrieval-Augmented Generation (RAG) applications.
+- [How to Construct Documents for RAG Applications](https://aviosit.com/tutorials/constructing-documents-for-rag) — Learn how to transform a structured Quran dataset into documents with text and metadata, ready for embedding, indexing, and retrieval in a Retrieval-Augmented Generation (RAG) pipeline.
+
+- [How to Prepare Quran Dataset for RAG Applications](https://aviosit.com/tutorials/preparing-quran-dataset-for-rag) — Learn how to explore Quran source data, validate and combine Arabic text with translations, and prepare a structured dataset in Parquet format for Retrieval-Augmented Generation (RAG) applications.
 
 ### B. Software Engineering
 
