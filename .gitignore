@@ -99,7 +99,7 @@ wandb/
 lightning_logs/
 
 # =========================
-# Tutorial data: Preparing Quran Dataset for RAG
+# Tutorial data: Quran RAG
 # =========================
 
 # Ignore original Quran source data
@@ -107,5 +107,6 @@ lightning_logs/
 /preparing-quran-dataset-for-rag/data/raw/en-saheeh-international.txt
 /preparing-quran-dataset-for-rag/data/raw/id-kemenag.txt
 
-# Ignore the full processed dataset
+# Ignore full processed datasets
 /preparing-quran-dataset-for-rag/data/processed/quran.parquet
+/constructing-documents-for-rag/data/processed/quran.parquet
