@@ -8,6 +8,8 @@ authors = [
 ]
 requires-python = ">=3.9"
 dependencies = [
+    "langchain-core>=0.3.86",
+    "llama-index-core>=0.14.16",
     "numpy>=2.0.2",
     "pandas>=2.3.3",
     "pyarrow>=21.0.0",
