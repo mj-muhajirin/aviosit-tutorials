@@ -45,6 +45,8 @@ See the [Tanzil Text License](https://tanzil.net/docs/Text_License) and the appl
 
 The source data is stored under `data/raw/`, and the prepared dataset is saved to `data/processed/quran.parquet`.
 
+Synthetic example files are also provided in `data/raw/` for demonstration purposes. They contain placeholder text, not actual Quranic text or translations. The corresponding example dataset is available at `data/processed/quran-example.parquet`, allowing readers to inspect the expected output without redistributing the full source dataset.
+
 ## 4. Requirements
 
 Make sure you have the following installed:
@@ -97,7 +99,7 @@ The notebook expects the Quran source files under `preparing-quran-dataset-for-r
 
 The prepared dataset is generated at `preparing-quran-dataset-for-rag/data/processed/quran.parquet`.
 
-The raw source files and generated dataset are intentionally excluded from Git.
+The original Quran source files and the full processed dataset are excluded from Git. Synthetic example files and the example Parquet dataset are included to support the tutorial demonstration.
 
 ---
 
