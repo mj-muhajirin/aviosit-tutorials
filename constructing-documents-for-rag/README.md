@@ -17,7 +17,7 @@ This repository contains the tutorial notebook for constructing documents from a
 
 ## 1. Tutorial Details
 
-[How to Construct Documents for RAG Applications](https://aviosit.com/tutorials/constructing-documents-for-rag) — Learn how to transform a structured Quran dataset into documents containing text and metadata, ready for embedding, indexing, and retrieval in a RAG pipeline.
+[How to Construct Documents for RAG Applications](https://aviosit.com/tutorials/constructing-documents-for-rag) — Learn how to transform a structured Quran dataset into documents containing text and metadata for subsequent embedding, indexing, and retrieval in a RAG pipeline.
 
 [Tutorial Video Demonstration](PLACEHOLDER) — Watch the tutorial walkthrough and follow the document construction process in practice.
 
@@ -55,7 +55,7 @@ The prepared dataset is read from `data/processed/quran.parquet`. A synthetic ex
 
 **Important:** The example dataset contains synthetic placeholder text for demonstration only. It does not contain actual Quranic text or translations.
 
-The full processed dataset is excluded from Git. Readers can use the example dataset provided in this repository or replace the dataset path with their own locally available dataset. The corresponding example dataset is available at `data/processed/quran-example.parquet`, allowing readers to inspect the expected output without redistributing the full dataset.
+The full processed dataset is excluded from Git. Readers can use the example dataset provided in this repository or replace the dataset path with their own locally available dataset.
 
 ## 4. Requirements
 
@@ -103,7 +103,7 @@ uv run python -m ipykernel install --user --name aviosit-tutorials --display-nam
 
 ### B. Run the Tutorial
 
-Open `constructing-documents-for-rag/notebooks/constructing_documents_for_rag.ipynb` in VS Code or another compatible Jupyter environment.
+Open `notebooks/constructing_documents_for_rag.ipynb` in VS Code or another compatible Jupyter environment.
 
 Select the `aviosit-tutorials` kernel.
 
