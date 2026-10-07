@@ -19,7 +19,7 @@ This repository contains the tutorial notebook for constructing documents from a
 
 [How to Construct Documents for RAG Applications](https://aviosit.com/tutorials/constructing-documents-for-rag) — Learn how to transform a structured Quran dataset into documents containing text and metadata for subsequent embedding, indexing, and retrieval in a RAG pipeline.
 
-[Tutorial Video Demonstration](PLACEHOLDER) — Watch the tutorial walkthrough and follow the document construction process in practice.
+[Tutorial Video Demonstration](https://www.youtube.com/watch?v=vWjv0KxJB90) — Watch the tutorial walkthrough and follow the document construction process in practice.
 
 The main tutorial notebook is available at [`notebooks/constructing_documents_for_rag.ipynb`](notebooks/constructing_documents_for_rag.ipynb).
 
@@ -132,7 +132,7 @@ This tutorial focuses on document construction. Embedding generation, vector ind
 <a href="https://aviosit.com/tutorials/constructing-documents-for-rag">
   <img src="https://img.shields.io/badge/🌐%20Web%20Page-2563EB?style=for-the-badge" alt="Web Page">
 </a>
-<a href="https://www.youtube.com/watch?v=LHXr8NMTM4E">
+<a href="https://www.youtube.com/watch?v=vWjv0KxJB90">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
