@@ -51,7 +51,7 @@ The notebook transforms each ayah record into separate language-specific documen
 - **Text** — the text content used in subsequent retrieval stages.
 - **Metadata** — structured information that identifies the source ayah and language.
 
-The prepared dataset is read from `data/processed/quran.parquet`. A synthetic example dataset is also provided at `data/processed/quran-example.parquet` so that readers can follow the tutorial without requiring the full dataset.
+The prepared dataset is read from `data/processed/quran.parquet`. A synthetic example dataset is also provided at [`quran-example.parquet`](data/processed/quran-example.parquet) so that readers can follow the tutorial without requiring the full dataset.
 
 **Important:** The example dataset contains synthetic placeholder text for demonstration only. It does not contain actual Quranic text or translations.
 
@@ -71,7 +71,7 @@ The tutorial uses the following Python packages:
 - `PyArrow >= 21.0.0`
 - `ipykernel >= 6.31.0`
 
-The project dependencies are managed using `uv` and declared in the repository's `pyproject.toml` and `uv.lock` files.
+The project dependencies are managed using `uv` and declared in the repository's [`pyproject.toml`](../pyproject.toml) and [`uv.lock`](../uv.lock)files.
 
 ## 5. How to Run
 
@@ -103,7 +103,7 @@ uv run python -m ipykernel install --user --name aviosit-tutorials --display-nam
 
 ### B. Run the Tutorial
 
-Open `notebooks/constructing_documents_for_rag.ipynb` in VS Code or another compatible Jupyter environment.
+Open [`notebooks/constructing_documents_for_rag.ipynb`](notebooks/constructing_documents_for_rag.ipynb) in VS Code or another compatible Jupyter environment.
 
 Select the `aviosit-tutorials` kernel.
 
@@ -111,7 +111,7 @@ Run the notebook cells in order, starting with the dataset-loading section.
 
 The notebook supports loading the prepared dataset from either the repository root or the notebook directory, using the corresponding relative path.
 
-By default, use the included `quran-example.parquet` dataset to follow the tutorial. If you want to use the full dataset, make sure `quran.parquet` is available locally and update the dataset path in the notebook accordingly.
+By default, use the included [`quran-example.parquet`](data/processed/quran-example.parquet) dataset to follow the tutorial. If you want to use the full dataset, make sure [`quran-example.parquet`](data/processed/quran-example.parquet) is available locally and update the dataset path in the notebook accordingly.
 
 The full dataset is excluded from Git and must be prepared separately using the [Preparing Quran Dataset for RAG Applications](https://aviosit.com/tutorials/preparing-quran-dataset-for-rag) tutorial or supplied from another local source.
 
