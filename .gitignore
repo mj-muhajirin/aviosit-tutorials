@@ -84,6 +84,12 @@ htmlcov/
 # Model weights / checkpoints
 # =========================
 
+# Ignore local model files
+/models/bge-m3/*
+
+# Keep the model directory structure
+!/models/bge-m3/.gitkeep
+
 *.safetensors
 *.ckpt
 *.pt
