@@ -113,7 +113,7 @@ The notebook downloads `BAAI/bge-m3` into `models/bge-m3` at the repository root
 By completing this tutorial, you will have:
 - downloaded a model from Hugging Face Hub,
 - stored its files locally, and
-- loaded the tokenizer and model from the local directory. 
+- loaded the tokenizer and model from the local directory.
 
 You will also understand how to organise local model files and verify that a model has loaded correctly. This tutorial focuses on model downloading and loading only. Embedding generation is covered in the next tutorial: [How to Embed Texts for AI Applications](https://aviosit.com/tutorials/embedding-texts-for-ai-applications).
 
